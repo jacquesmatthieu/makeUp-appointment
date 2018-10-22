@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"eslint.options": { "configFile": "/Users/matthieujacques/Application/makeup/.eslintrc"},
+	}
+}
